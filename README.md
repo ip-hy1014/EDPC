@@ -1,0 +1,2 @@
+# EDPC
+EDPCをPythonで解いたやつ
